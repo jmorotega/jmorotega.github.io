@@ -1,10 +1,10 @@
 # jmorotega.github.io
 
 ## Slope chart
-<https://jmorotega.github.io/slope-chart/>
+[Link al slope chart](https://jmorotega.github.io/slope-chart/)
 
 ## Rose chart
-<https://jmorotega.github.io/rose-chart/>
+[Link al rose chart](https://jmorotega.github.io/rose-chart/)
 
 ## Dot Density Map
-<https://jmorotega.github.io/dot-density-map/>
+[LInk al dot density map](https://jmorotega.github.io/dot-density-map/)
